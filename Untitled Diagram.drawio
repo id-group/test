@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-22T11:22:09.037Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="54CVOlq2zIaeLygm-gs3" version="12.5.5" type="github">
+<mxfile host="www.draw.io" modified="2020-01-22T11:24:39.496Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="WPlWZptsHVe6xSvw6p4r" version="12.5.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="16" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,20 +10,14 @@
         <mxCell id="Fv8nIN-60UwDxnUi9GbX-3" value="Normal" style="whiteSpace=wrap;html=1;shadow=0;dashed=0;fontSize=15;align=center;fillColor=#FFFFFF;strokeColor=#FFFFFF;fontColor=#4D4D4D;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="35.6" y="64" width="168.8" height="32" as="geometry"/>
         </mxCell>
-        <mxCell id="Fv8nIN-60UwDxnUi9GbX-8" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;strokeColor=#eeeeee;fillColor=#ffffff;gradientColor=none;fontSize=29;align=center;horizontal=0;verticalAlign=bottom;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="29" y="112" width="183" height="50" as="geometry"/>
+        <mxCell id="Fv8nIN-60UwDxnUi9GbX-13" value="Item" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.spinner2;align=center;fillColor=#ffffff;strokeColor=none;verticalAlign=bottom;fontSize=8;gradientColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="35.6" y="144" width="172.4" height="28" as="geometry"/>
         </mxCell>
-        <mxCell id="Fv8nIN-60UwDxnUi9GbX-9" value="Menu Item 1" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#333333;" vertex="1" parent="Fv8nIN-60UwDxnUi9GbX-8">
-          <mxGeometry width="185" height="12.5" as="geometry"/>
+        <mxCell id="Fv8nIN-60UwDxnUi9GbX-14" value="Item" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.spinner2;align=center;fillColor=#999999;strokeColor=#999999;verticalAlign=bottom;fontSize=8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="35.6" y="184" width="172.4" height="10" as="geometry"/>
         </mxCell>
-        <mxCell id="Fv8nIN-60UwDxnUi9GbX-10" value="Menu Item 2" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#333333;" vertex="1" parent="Fv8nIN-60UwDxnUi9GbX-8">
-          <mxGeometry y="12.5" width="185" height="12.5" as="geometry"/>
-        </mxCell>
-        <mxCell id="Fv8nIN-60UwDxnUi9GbX-11" value="Menu Item 3" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#333333;" vertex="1" parent="Fv8nIN-60UwDxnUi9GbX-8">
-          <mxGeometry y="25" width="185" height="12.5" as="geometry"/>
-        </mxCell>
-        <mxCell id="Fv8nIN-60UwDxnUi9GbX-12" value="Menu Item 4" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#333333;" vertex="1" parent="Fv8nIN-60UwDxnUi9GbX-8">
-          <mxGeometry y="37.5" width="185" height="12.5" as="geometry"/>
+        <mxCell id="Fv8nIN-60UwDxnUi9GbX-15" value="Item" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.spinner2;align=center;fillColor=#999999;strokeColor=#999999;verticalAlign=bottom;fontSize=8;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="35.599999999999994" y="210" width="172.4" height="10" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
